@@ -1,0 +1,32 @@
+body {
+    background-color: #EAF6F6;
+   }
+
+   .hereonly{
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+
+  h1{
+    color:#66BFBF;
+  }
+  h3{
+    color: #66BFBF;
+  }
+
+   hr{
+       border-color:gray;
+       border-style:dotted none none;
+
+       height:10px;
+       border-width: 5px;
+       width: 10%;
+   }
+
+   a:hover{
+     background-color:gold;
+   }
+
+   .phone{
+    font-weight:800;
+   }
